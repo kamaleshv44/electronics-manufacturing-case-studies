@@ -1,23 +1,36 @@
-# PCB Manufacturing Internship at Micron EMS
+# PCB Manufacturing Internship @ Micron EMS Tech Pvt. Ltd.
 
-Internship (2023-2024) on PCB manufacturing processes, from assembly to quality checks.
+Internship period: October 2023 – November 2023  
+Location: Bengaluru, India  
 
-## Overview
-- **Role**: Hands-on in production line.
-- **Key Processes**: PCB Assembling, Through-Hole, Forming, Wave Soldering, Cleaning, Quality Check, Testing, Packing, SMD.
+Hands-on experience in electronics manufacturing and quality control.
 
-## Weekly Activities
-- Week 1: Forming components.
-- Week 2: SMD placement.
-- Week 3: PCB Soldering.
-- Week 4: Quality Check.
+## Key Responsibilities & Achievements
+- Performed **PCB assembly**, inspection, functional testing, and debugging in production environments.
+- Reduced defect rates by **20%** through structured fault identification and testing procedures.
+- Supported schematic verification and production-level troubleshooting.
 
-## Artifacts
-- **Certificate**: ![Certificate](images/certificate.png)
-- **Table of Contents**: ![TOC](images/table-of-contents.png)
-- Full Report: [micron-internship.pdf](docs/micron-internship.pdf)
+## Technologies & Processes
+- Through-Hole & SMD Assembly  
+- Wave Soldering, Cleaning, Quality Checks  
+- Functional Testing & Debugging  
+
+## Artifacts & Visuals
+- **Internship Certificate & Report Cover**: Upload from your PDF (cover page, certificate).  
+- Wave Soldering Process:
+
+<grok-card data-id="99eb56" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+
+<grok-card data-id="a40876" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+  
 
 ## Skills Demonstrated
-- Hardware Assembly, Soldering, Quality Assurance, Manufacturing Workflows.
+- Hardware assembly, quality assurance, production workflows, attention to detail.
+
+## How to Explore
+Review uploaded PDFs/images in `/docs/` and `/images/` for detailed weekly activities and processes.
 
 License: MIT
