@@ -1,4 +1,3 @@
-Micron EMS Pvt. Ltd. – PCB Manufacturing Internship
 
 # Electronics Manufacturing Case Studies
 
